@@ -10,3 +10,4 @@ It should do it by :
 - Filtering out frills.
 - Match line of a same scope regardless of their order
 - Match scope of a same scope regardless of their order.
+- Increasing cheat score by having lines in the same order, regardless lines between them.
