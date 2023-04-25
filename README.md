@@ -1,5 +1,5 @@
-# CCCD
-*C Code Cheat Detection*
+# CCCCD
+*Configuration C Code Cheat Detection*
 
 THIS PROGRAM IS NOT WORKING YET.
 DO NOT TRY TO USE IT IN PRODUCTION.
